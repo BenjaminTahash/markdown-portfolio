@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Playing Guitar
+* Reading books about cognitive understanding
+* Playing Video Games
